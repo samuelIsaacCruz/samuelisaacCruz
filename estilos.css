@@ -1,0 +1,29 @@
+
+      header{background: rgb(23, 172, 110);color:rgb(231, 231, 231)} 
+      hgroup{background: rgb(23, 172, 110);color:rgb(231, 231, 231)} 
+      article{background: rgb(23, 172, 110);color:rgb(231, 231, 231)} 
+      title{background: rgb(23, 172, 110);color:rgb(231, 231, 231)} 
+     p{background: rgb(23, 172, 110);color:rgb(231, 231, 231)} 
+     nav{background: rgb(23, 172, 110);color:rgb(231, 231, 231)} 
+      
+ h1 {
+     font: 32px bold sans-serif;
+    
+}
+    
+h0 {
+    font-size: 13px ;
+}
+   
+
+h3 { font: 17px times new roman bold;}
+
+
+header,section,body,aside,nav,article{
+    border: 2px solid black
+}
+
+div {
+    background: rgb(23, 172, 110);color:rgb(231, 231, 231)} 
+}
+
